@@ -1,16 +1,32 @@
-# notes_app
+# Notes App (Real Time chat and Post) 
 
-A new Flutter project.
+## A) Video That descibtion  App
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/MohamedHussien991999/notes_app/assets/93053169/c79c3960-dd03-4db1-8b5f-769a082eddd3
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
+##   B) Tools 
+
+  1) Hive 
+  2)  modal_progress_hud_nsn 
+  3)  intl
+
+  
+
+
+## C) Features
+
+• My Notes Screen
+
+• Add Note
+
+• Edit Note Screen
+
